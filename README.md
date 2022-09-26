@@ -1,0 +1,1 @@
+# Practice for Innopolis QA course
